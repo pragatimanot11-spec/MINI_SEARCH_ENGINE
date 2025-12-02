@@ -1,0 +1,3 @@
+Data structures like hash tables and trees are fundamental to search engines.
+Hashing gives average O(1) lookup for words (ignoring collisions).
+Phrase search needs position lists stored per document per term.

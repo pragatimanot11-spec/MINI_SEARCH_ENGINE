@@ -1,0 +1,3 @@
+The quick brown fox jumps over the lazy dog.
+This small document contains simple sentences for testing the mini search engine.
+Search engines use inverted indexes to find documents quickly.

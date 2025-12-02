@@ -1,0 +1,3 @@
+New York is a large city with many neighborhoods.
+I love visiting New York City during winter.
+This document mentions New York several times to support phrase search testing.
